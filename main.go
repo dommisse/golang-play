@@ -1,6 +1,7 @@
 package main
 
 import (
+	_ "dj.com/functions"
 	"fmt"
 	"math"
 )
